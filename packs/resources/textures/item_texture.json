@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "rg",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "stone_geode": {
+      "textures": "textures/items/stone_geode"
+    },
+    "deepslate_geode": {
+      "textures": "textures/items/deepslate_geode"
+    }
+  }
+}

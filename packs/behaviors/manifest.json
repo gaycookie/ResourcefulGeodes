@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Resourceful Geodes",
+    "description": "Add geodes to the game",
+    "uuid": "767397f9-223b-495f-b43d-772bf611ff20",
+    "version": [ 0, 0, 15 ]
+  },
+  "modules": [
+    {
+      "description": "Behaviours for Resourceful Geodes",
+      "type": "data",
+      "uuid": "ce678acb-db06-40fa-984c-3576400942bd",
+      "version": [ 0, 0, 15 ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "0cbb5181-c60b-4f19-84a9-a0c1e9392584",
+      "version": [ 0, 0, 15 ]
+    }
+  ]
+}
