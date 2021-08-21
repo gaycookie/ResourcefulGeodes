@@ -1,2 +1,4 @@
 tile.rg:geode_deepslate.name=Geode Deepslate
 tile.rg:geode_stone.name=Geode Stone
+item.rg:stone_geode=Stone Geode
+item.rg:deepslate_geode=Deepslate Geode

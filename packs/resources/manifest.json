@@ -4,14 +4,14 @@
     "name": "Resourceful Geodes",
     "description": "Add geodes to the game",
     "uuid": "0cbb5181-c60b-4f19-84a9-a0c1e9392584",
-    "version": [ 0, 0, 15 ]
+    "version": [ 0, 0, 16 ]
   },
   "modules": [
     {
       "description": "Resources for Resourceful Geodes",
       "type": "resources",
       "uuid": "37481501-93c5-429f-9e5b-9ca8949338f9",
-      "version": [ 0, 0, 15 ]
+      "version": [ 0, 0, 16 ]
     }
   ]
 }

@@ -14,9 +14,6 @@
       "minecraft:icon": {
         "texture": "stone_geode"
       },
-      "minecraft:display_name": {
-        "value": "Geode"
-      },
       "minecraft:on_use_on": {
         "on_use_on": "on_use_geode"
       }
