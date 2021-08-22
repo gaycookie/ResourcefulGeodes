@@ -15,16 +15,15 @@
         "texture": "stone_geode"
       },
       "minecraft:on_use_on": {
-        "on_use_on": "on_use_geode"
+        "on_use_on": {
+          "event": "use_geode",
+          "target": "self"
+        }
       }
     },
     "events": {
-      "on_use_geode": {
-        "sequence": [
-          {
-            "decrement_stack": { }
-          }
-        ]
+      "use_geode": {
+        "decrement_stack": { }
       }
     }
   }

@@ -12,7 +12,7 @@
       "minecraft:loot": "loot_tables/blocks/geode_stone.json",
       "minecraft:material_instances": {
         "*": {
-          "texture": "stone"
+          "texture": "geode_stone"
         }
       }
     }

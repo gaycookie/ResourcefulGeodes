@@ -1,0 +1,11 @@
+{
+  "format_version": "1.17.1",
+  "rg:geode_stone": {
+    "textures": "stone",
+    "sound": "stone"
+  },
+  "rg:geode_deepslate": {
+    "textures": "deepslate",
+    "sound": "deepslate"
+  }
+}

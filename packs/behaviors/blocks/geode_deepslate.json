@@ -12,7 +12,7 @@
       "minecraft:loot": "loot_tables/blocks/geode_deepslate.json",
       "minecraft:material_instances": {
         "*": {
-          "texture": "deepslate"
+          "texture": "geode_deepslate"
         }
       }
     }
