@@ -9,6 +9,7 @@ Disclaimer; I'm not the best in keeping a log, so do not expect much.. I'm doing
 ### Added
 - A changelog so duhh!
 - Brought back the `block.json` and `terrain_texture.json`.
+- A `en_GB` translation, a copy of `en_US`.
 
 ### Changed
 - Geodes now stack decrement when using them, it's atleast something am I right? 😊
