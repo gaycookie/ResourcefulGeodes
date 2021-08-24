@@ -1,5 +1,19 @@
 {
   "name": "resourcefulgeodes",
+  "version": "0.0.18",
+  "license": "WTFPL",
+  "author": {
+    "name": "GayCookie",
+    "email": "contact@gaycookie.dev",
+    "url": "https://github.com/gaycookie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaycookie/ResourcefulGeodes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gaycookie/ResourcefulGeodes/issues"
+  },
   "private": true,
   "scripts": {
     "build": "gulp build",
