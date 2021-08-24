@@ -1,0 +1,48 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:redstone"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:lapis_lazuli"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:raw_copper"
+        },
+        {
+          "type": "item",
+          "weight": 5,
+          "name": "minecraft:raw_gold"
+        },
+        {
+          "type": "item",
+          "weight": 5,
+          "name": "minecraft:raw_iron"
+        },
+        {
+          "type": "item",
+          "weight": 5,
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "item",
+          "weight": 5,
+          "name": "minecraft:diamond"
+        }
+      ]
+    }
+  ]
+}

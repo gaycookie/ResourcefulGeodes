@@ -1,0 +1,20 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "rg:dummy",
+			"is_spawnable": true,
+			"is_summonable": true,
+			"is_experimental": false
+		},
+
+		"components": {
+			"minecraft:health": {
+				"value": 0
+			},
+			"minecraft:loot": {
+				"table": "loot_tables/entities/dummy.json"
+			}
+		}
+	}
+}

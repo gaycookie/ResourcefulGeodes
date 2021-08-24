@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file
 and the format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).  
 Disclaimer; I'm not the best in keeping a log, so do not expect much.. I'm doing my best! 😊
 
+## [0.0.18] - 2021-08-24
+
+### Added
+- `minecraft:entity_placer` component on the `stone_geode` and `deepslate_geode`.
+- Dummy enitity that dies upon spawn/summon and drops a random gem/ore from `loot_tables/entities/dummy.json`.
+
+### Removed
+- `minecraft:on_use_on` component, this is not needed anymore.
+
 ## [0.0.17] - 2021-08-23
 
 ### Added
